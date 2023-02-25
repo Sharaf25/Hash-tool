@@ -3,3 +3,5 @@ Hashing tool that helps you to hash a plain text with 6 algorithms (MD5, SHA1, S
 
 This tool is useful if you got a hash from (MAN IN THE MIDDLE) attack and you want to check plain text with this hash.
 It also helps you if you don't know what algorithm that has been used to hash this text
+
+https://user-images.githubusercontent.com/96418646/221380503-d0adcedc-9f01-47e6-8942-2bbcf2c61184.mp4
